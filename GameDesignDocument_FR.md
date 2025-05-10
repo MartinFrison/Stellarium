@@ -320,7 +320,7 @@ Formes disponibles :
 
 Chaque forme existe également en version agrandie (coût x4).
 
-| ![Building1](screenshots/Building1.png) | ![Building2](screenshots/Building2.png) | ![Wall](screenshots/Wall.png) |
+| ![Building1](Screenshots/Building1.png) | ![Building2](Screenshots/Building2.png) | ![Wall](Screenshots/Wall.png) |
 |:--:|:--:|:--:|
 
 
@@ -335,7 +335,7 @@ Les vaisseaux peuvent être construits de A à Z à l’aide du même système m
 * Contrôle total en vue à la 3e personne.
 * Vaisseaux pilotables.
 
-| ![Starship1](screenshots/Starship1.png) | ![Starship2](screenshots/Starship2.png) |
+| ![Starship1](Screenshots/Starship1.png) | ![Starship2](Screenshots/Starship2.png) |
 |:--:|:--:|
 
 ---
