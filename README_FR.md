@@ -62,21 +62,20 @@ Contient toutes les mécaniques, systèmes de jeu, planètes, armes, créatures,
 Des captures du jeu et des artworks issus du développement sont disponibles dans :
 
 * `screenshots/` : captures réelles du jeu
-* `docs/ConceptArt/` : dessins préparatoires
 
 ### Aperçus des planètes et zones :
 
 **Zone spatiale**
-![Zone spatiale](screenshots/Space_Zone.png)
+![Zone spatiale](Screenshots/Space_Zone.png)
 
 **Miraju**
-![Miraju](screenshots/Miraju.png)
+![Miraju](Screenshots/Miraju.png)
 
 **Kagami**
-![Kagami](screenshots/Kagami.png)
+![Kagami](Screenshots/Kagami.png)
 
 **Vesus**
-![Vesus](screenshots/Vesus.png)
+![Vesus](Screenshots/Vesus.png)
 
 ---
 

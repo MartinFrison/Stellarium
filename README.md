@@ -63,21 +63,20 @@ Includes all core mechanics, systems, planets, weapons, creatures, stats, and cr
 In-game screenshots and early concept artworks are available in the repository:
 
 * `screenshots/` — real screenshots from the game
-* `docs/ConceptArt/` — early development concept art
 
 ### Planet and zone previews:
 
 **Space Zone**
-![Space Zone](screenshots/Space_Zone.png)
+![Space Zone](Screenshots/Space_Zone.png)
 
 **Miraju**
-![Miraju](screenshots/Miraju.png)
+![Miraju](Screenshots/Miraju.png)
 
 **Kagami**
-![Kagami](screenshots/Kagami.png)
+![Kagami](Screenshots/Kagami.png)
 
 **Vesus**
-![Vesus](screenshots/Vesus.png)
+![Vesus](Screenshots/Vesus.png)
 
 ---
 

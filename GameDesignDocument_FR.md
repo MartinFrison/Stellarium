@@ -236,7 +236,7 @@ Chaque planète contient des donjons (grottes, ruines, structures) peuplés de c
 
 Planète de départ à la géographie variée : plaines, montagnes, lacs, rivières, océan, plages, forêts, et une ville centrale.
 
-![Terre](screenshots/Earth.png)
+![Terre](Screenshots/Earth.png)
 
 * Taille : 1,2 km
 * Température : 5°C à 25°C
@@ -248,7 +248,7 @@ Planète de départ à la géographie variée : plaines, montagnes, lacs, riviè
 
 Planète désertique divisée en trois zones : plaines rocheuses, dunes de sable, et canyon menant à une vallée cachée avec un temple. Des mirages peuvent perturber vos perceptions.
 
-![Miraju](screenshots/Miraju.png)
+![Miraju](Screenshots/Miraju.png)
 
 * Taille : 2,5 km
 * Température : -10°C à 55°C
@@ -260,7 +260,7 @@ Planète désertique divisée en trois zones : plaines rocheuses, dunes de sable
 
 Planète luxuriante composée de jungles denses, de vastes plaines, de rivières et d’une forêt lugubre abritant des créatures dangereuses.
 
-![Mitsurin](screenshots/Mitsurin.png)
+![Mitsurin](Screenshots/Mitsurin.png)
 
 * Taille : 2,2 km
 * Température : 10°C à 45°C
@@ -272,7 +272,7 @@ Planète luxuriante composée de jungles denses, de vastes plaines, de rivières
 
 Monde volcanique recouvert de magma, de roche et de cendres. Le ciel est constamment obscurci. Plusieurs volcans, dont un central, dominent le paysage.
 
-![Funka](screenshots/Funka.png)
+![Funka](Screenshots/Funka.png)
 
 * Protection contre la chaleur requise
 * Taille : 2,0 km
@@ -285,7 +285,7 @@ Monde volcanique recouvert de magma, de roche et de cendres. Le ciel est constam
 
 Planète glacée composée de montagnes, plaines enneigées, lacs gelés et grottes de glace. Des tempêtes de neige y sont fréquentes.
 
-![Kagami](screenshots/Kagami.png)
+![Kagami](Screenshots/Kagami.png)
 
 * Protection contre le froid requise
 * Taille : 2,0 km
@@ -298,7 +298,7 @@ Planète glacée composée de montagnes, plaines enneigées, lacs gelés et grot
 
 Planète splendide à l’atmosphère fluorescente, faite de vallées, collines et cascades bleues. Elle abrite la civilisation la plus avancée de l’univers, peu accueillante envers les étrangers.
 
-![Vesus](screenshots/Vesus.png)
+![Vesus](Screenshots/Vesus.png)
 
 * Protection contre l’antimatière requise
 * Taille : 2,0 km
@@ -349,7 +349,7 @@ Les vaisseaux peuvent être construits de A à Z à l’aide du même système m
 * Dôme Tek : rayon de 30m, très résistant
 * Dôme à antimatière : rayon de 80m, protection maximale
 
-![Dome](screenshots/Dome.png)
+![Dome](Screenshots/Dome.png)
 
 ---
 
@@ -398,7 +398,7 @@ Améliorations disponibles :
 * Dôme Tek : Solidité 5, rayon 30m
 * Dôme à antimatière : Solidité 5, rayon 80m
 
-![Base](screenshots/Base.png)
+![Base](Screenshots/Base.png)
 
 ### Réacteurs
 
@@ -429,7 +429,7 @@ Améliorations disponibles :
 * Perceuse : Efficacité 160
 * Outil laser : Efficacité 200
 
-![Inventory](screenshots/Inventory.png)
+![Inventory](Screenshots/Inventory.png)
 
 ---
 
@@ -557,7 +557,7 @@ Le temps d’incubation et de maturation varie selon l’espèce.
 
 #### 🐺 Loup
 
-![Wolf](screenshots/Wolf.png)
+![Wolf](Screenshots/Wolf.png)
 
 Un prédateur classique qui vit dans les forêts et les montagnes. Il chasse souvent en meute et n’hésite pas à attaquer lorsqu’il détecte une présence étrangère. Non montable.
 
@@ -565,7 +565,7 @@ Un prédateur classique qui vit dans les forêts et les montagnes. Il chasse sou
 
 #### 🐻 Ours
 
-![Bear](screenshots/Bear.png)
+![Bear](Screenshots/Bear.png)
 
 Solide et puissant, l’ours est un omnivore qui se montre agressif envers tout intrus. Il possède une capacité spéciale passive : plus sa vie est basse, plus ses attaques deviennent destructrices. Montable.
 
@@ -573,7 +573,7 @@ Solide et puissant, l’ours est un omnivore qui se montre agressif envers tout 
 
 #### 🐑 Mouton
 
-![Sheep](screenshots/Sheep.png)
+![Sheep](Screenshots/Sheep.png)
 
 Paisible habitant des plaines, le mouton est une créature purement fuyarde. Il peut être utilisé pour sa laine ou comme monture légère. Très vulnérable.
 
@@ -581,7 +581,7 @@ Paisible habitant des plaines, le mouton est une créature purement fuyarde. Il 
 
 #### 🧬 Tardigramorph
 
-![Tardigramorph](screenshots/Tardigramorph.png)
+![Tardigramorph](Screenshots/Tardigramorph.png)
 
 Inspiré du tardigrade terrestre, mais en version géante, ce survivant hors pair est quasi indestructible. Il peut planer dans les airs et possède une immunité totale à l’environnement. Sa capacité spéciale le rend temporairement invincible. Variantes sur Kagami (glace) et Funka (feu).
 
@@ -589,7 +589,7 @@ Inspiré du tardigrade terrestre, mais en version géante, ce survivant hors pai
 
 #### 🐍 Slawormon
 
-![Slawormon](screenshots/Slawormon.png)
+![Slawormon](Screenshots/Slawormon.png)
 
 Créature géante et lâche, elle fuit quand elle est blessée mais peut causer de lourds dégâts grâce à sa capacité spéciale : elle crée une secousse dans le sable qui projette ses ennemis dans les airs. Une version orange devient plus rapide quand sa vie est faible.
 
@@ -597,7 +597,7 @@ Créature géante et lâche, elle fuit quand elle est blessée mais peut causer 
 
 #### 🐫 Muddy
 
-![Muddy](screenshots/Muddy.png)
+![Muddy](Screenshots/Muddy.png)
 
 Herbivore massif de Miraju, cette créature fuyarde utilise des tempêtes de sable pour affaiblir ses ennemis et renforcer ses alliés. Sa tempête inflige des dégâts continus tout en restaurant l’endurance des créatures alliées proches.
 
@@ -605,7 +605,7 @@ Herbivore massif de Miraju, cette créature fuyarde utilise des tempêtes de sab
 
 #### 🪨 Golem
 
-![Golem](screenshots/Golem.png)
+![Golem](Screenshots/Golem.png)
 
 Créature massive de pierre qui habite les déserts de Miraju. Inoffensif tant qu’on ne l’attaque pas, il devient redoutable s’il est provoqué. Il peut lancer des rochers infligeant de lourds dégâts. Existe en variante de feu sur Funka avec rochers enflammés et immunité au feu.
 
@@ -613,7 +613,7 @@ Créature massive de pierre qui habite les déserts de Miraju. Inoffensif tant q
 
 #### 🕷️ Aranoïde
 
-![Aranoide](screenshots/Aranoide.png)
+![Aranoide](Screenshots/Aranoide.png)
 
 Créature nocturne semblable à une araignée géante. Très agressive, elle est capable de projeter des pièges gluants ralentissant ses cibles. Redoutable la nuit.
 
@@ -621,7 +621,7 @@ Créature nocturne semblable à une araignée géante. Très agressive, elle est
 
 #### 🌱 Sower
 
-![Sower](screenshots/Sower.png)
+![Sower](Screenshots/Sower.png)
 
 Créature végétale vivant dans les forêts sombres de Mitsurin. Elle libère un nuage de graines absorbant l’énergie vitale des ennemis. Peut avoir une variante turquoise qui régénère plus vite sa stamina et draine.
 
@@ -629,7 +629,7 @@ Créature végétale vivant dans les forêts sombres de Mitsurin. Elle libère u
 
 #### 🦌 Cerval
 
-![Cerval](screenshots/Cerval.png)
+![Cerval](Screenshots/Cerval.png)
 
 Cerf bipède étrange et partiellement carnivore, capable d’endormir ses ennemis grâce à une fumée soporifique. Montable, il combine vitesse et capacités de contrôle. Immunisé contre la torpeur.
 
@@ -637,7 +637,7 @@ Cerf bipède étrange et partiellement carnivore, capable d’endormir ses ennem
 
 #### 🧪 Vicilis
 
-![Vicilis](screenshots/Vicilis.png)
+![Vicilis](Screenshots/Vicilis.png)
 
 Créature agressive aux crocs empoisonnés. Peut générer des lianes pour piéger ses cibles ou se déplacer. Variante foncée qui paralyse mais ne draine plus. Excellente pour contrôler le champ de bataille.
 
@@ -645,7 +645,7 @@ Créature agressive aux crocs empoisonnés. Peut générer des lianes pour piég
 
 #### 🐘 Bibou
 
-![Bibou](screenshots/Bibou.png)
+![Bibou](Screenshots/Bibou.png)
 
 Géant herbivore paisible. Peu mobile mais très résistant, il peut couver les œufs pour augmenter les chances de mutations génétiques. Idéal pour l’élevage.
 
@@ -653,7 +653,7 @@ Géant herbivore paisible. Peu mobile mais très résistant, il peut couver les 
 
 #### 🔥 Salavamandre
 
-![Salavamandre](screenshots/Salavamandre.png)
+![Salavamandre](Screenshots/Salavamandre.png)
 
 Salamandre volcanique vivant dans les failles. Capable de grimper aux murs et de tirer des boules de lave infligeant des brûlures. Variante orange qui tire trois projectiles moins puissants. Montable.
 
@@ -661,7 +661,7 @@ Salamandre volcanique vivant dans les failles. Capable de grimper aux murs et de
 
 #### 🔥 Chrysomancer
 
-![Chrysomancer](screenshots/Chrysomancer.png)
+![Chrysomancer](Screenshots/Chrysomancer.png)
 
 Créature volante enflammée qui s’écrase sur ses ennemis pour causer une explosion. Très rapide et dangereuse. Variante bleue plus endurante mais sans capacité spéciale. Montable.
 
@@ -669,7 +669,7 @@ Créature volante enflammée qui s’écrase sur ses ennemis pour causer une exp
 
 #### 🌋 Erudon
 
-![Erudon](screenshots/Erudon.png)
+![Erudon](Screenshots/Erudon.png)
 
 Prédateur massif immunisé au feu. Pose des cratères explosifs sur le sol, très dangereux pour les poursuivants. Idéal pour piéger une zone. Montable.
 
@@ -677,7 +677,7 @@ Prédateur massif immunisé au feu. Pose des cratères explosifs sur le sol, tr�
 
 #### ❄️ Snow-Saurus
 
-![SnowSaurus](screenshots/Snow-Saurus.png)
+![SnowSaurus](Screenshots/Snow-Saurus.png)
 
 Hybride Rex-Yeti, cette créature est taillée pour le combat dans la neige. Son souffle glacé provoque de lourds dégâts et un recul massif. Variante bleue claire pouvant invoquer des tempêtes de neige. Montable.
 
@@ -685,7 +685,7 @@ Hybride Rex-Yeti, cette créature est taillée pour le combat dans la neige. Son
 
 #### ❄️ Reaper
 
-![Reaper](screenshots/Reaper.png)
+![Reaper](Screenshots/Reaper.png)
 
 Créature de glace à griffes extensibles. Peut attaquer à distance et projeter ses ennemis. Très utile pour le crowd control. Immunisé au gel. Montable.
 
@@ -693,7 +693,7 @@ Créature de glace à griffes extensibles. Peut attaquer à distance et projeter
 
 #### ❄️ Hazer
 
-![Hazer](screenshots/Hazer.png)
+![Hazer](Screenshots/Hazer.png)
 
 Créature semblable à un loup capable de générer des illusions grâce à un blizzard. Redoutable pour tromper et désorienter ses ennemis. Montable.
 
@@ -701,7 +701,7 @@ Créature semblable à un loup capable de générer des illusions grâce à un b
 
 #### ✨ Dazzle
 
-![Dazzle](screenshots/Dazzle.png)
+![Dazzle](Screenshots/Dazzle.png)
 
 Créature imposante vivant sur Kagami, Dazzle est capable d’aveugler ses ennemis avec sa lumière intense, les empêchant de suivre leur cible pendant un court moment. Montable.
 
@@ -709,7 +709,7 @@ Créature imposante vivant sur Kagami, Dazzle est capable d’aveugler ses ennem
 
 #### 🌀 Tronvoïde
 
-![Tronvoide](screenshots/Tronvoide.png)
+![Tronvoide](Screenshots/Tronvoide.png)
 
 Petite créature de Vesus au comportement lâche, capable de se téléporter dans le dos de ses ennemis pour surprendre et attaquer. Active surtout la nuit. Non montable.
 
@@ -717,7 +717,7 @@ Petite créature de Vesus au comportement lâche, capable de se téléporter dan
 
 #### ⛈️ Stormvoker
 
-![Stormvoker](screenshots/Stormvoker.png)
+![Stormvoker](Screenshots/Stormvoker.png)
 
 Colosse de Vesus qui invoque des orages dévastateurs, frappant les ennemis de ses éclairs destructeurs. Variante rose : orages plus longs mais moins puissants. Montable.
 
@@ -725,7 +725,7 @@ Colosse de Vesus qui invoque des orages dévastateurs, frappant les ennemis de s
 
 #### ⚛️ Negatron
 
-![Negatron](screenshots/Negatron.png)
+![Negatron](Screenshots/Negatron.png)
 
 Humanoïde évolué manipulant l'antimatière. Il peut se téléporter avec une onde de choc avant et après sa téléportation. D’une grande agilité et capable de planer. Montable.
 
@@ -733,7 +733,7 @@ Humanoïde évolué manipulant l'antimatière. Il peut se téléporter avec une 
 
 #### 🌿 Hyppoglow
 
-![Hyppoglow](screenshots/Hyppoglow.png)
+![Hyppoglow](Screenshots/Hyppoglow.png)
 
 Créature paisible de Vesus se nourrissant de baies. Elle éclaire les filons brillants à proximité et possède une capacité unique permettant de rajeunir ses alliés. Montable.
 

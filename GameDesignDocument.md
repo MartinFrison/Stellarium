@@ -235,7 +235,7 @@ Each planet contains dungeons (caves, ruins, structures) inhabited by hostile cr
 
 The starting planet features diverse environments: plains, mountains, lakes, rivers, ocean, beaches, forests, and a central city.
 
-![Earth](screenshots/Earth.png)
+![Earth](Screenshots/Earth.png)
 
 * Size: 1.2 km
 * Temperature: 5°C to 25°C
@@ -247,7 +247,7 @@ The starting planet features diverse environments: plains, mountains, lakes, riv
 
 A desert planet with three distinct areas: rocky plains, sand dunes, and a canyon leading to a hidden valley and temple. Occasional mirages may distort your perception.
 
-![Miraju](screenshots/Miraju.png)
+![Miraju](Screenshots/Miraju.png)
 
 * Size: 2.5 km
 * Temperature: -10°C to 55°C
@@ -259,7 +259,7 @@ A desert planet with three distinct areas: rocky plains, sand dunes, and a canyo
 
 A lush green planet with dense jungles, vast plains, rivers, and a dark forest inhabited by dangerous creatures.
 
-![Mitsurin](screenshots/Mitsurin.png)
+![Mitsurin](Screenshots/Mitsurin.png)
 
 * Size: 2.2 km
 * Temperature: 10°C to 45°C
@@ -271,7 +271,7 @@ A lush green planet with dense jungles, vast plains, rivers, and a dark forest i
 
 A volcanic world covered in magma, rock, and ash. The sky is always dark. Several volcanoes, including a massive central one, dominate the terrain.
 
-![Funka](screenshots/Funka.png)
+![Funka](Screenshots/Funka.png)
 
 * Heat protection required
 * Size: 2.0 km
@@ -284,7 +284,7 @@ A volcanic world covered in magma, rock, and ash. The sky is always dark. Severa
 
 An icy planet with snow-covered mountains, frozen plains, icy lakes, and ice caves. Snowstorms are frequent.
 
-![Kagami](screenshots/Kagami.png)
+![Kagami](Screenshots/Kagami.png)
 
 * Cold protection required
 * Size: 2.0 km
@@ -297,7 +297,7 @@ An icy planet with snow-covered mountains, frozen plains, icy lakes, and ice cav
 
 A stunning planet with glowing blue valleys, hills, and waterfalls. It is home to the universe's most advanced civilization, which becomes hostile upon detecting intruders.
 
-![Vesus](screenshots/Vesus.png)
+![Vesus](Screenshots/Vesus.png)
 
 * Antimatter protection required
 * Size: 2.0 km
@@ -350,7 +350,7 @@ Ships can be built from scratch using the same modular system as bases, allowing
 * Tek Dome: 30m radius, extremely durable
 * Antimatter Dome: 80m radius, top-tier protection
 
-![Dome](screenshots/Dome.png)
+![Dome](Screenshots/Dome.png)
 
 ---
 
@@ -399,7 +399,7 @@ Upgrades include:
 * Tek Dome: Durability 5, 30m radius
 * Antimatter Dome: Durability 5, 80m radius
 
-![Base](screenshots/Base.png)
+![Base](Screenshots/Base.png)
 
 ### Engines
 
@@ -430,7 +430,7 @@ Upgrades include:
 * Drill: Efficiency 160
 * Laser Tool: Efficiency 200
 
-![Inventory](screenshots/Inventory.png)
+![Inventory](Screenshots/Inventory.png)
 
 ---
 
@@ -700,7 +700,7 @@ Incubation and maturation times depend on the species.
 
 #### 🐺 Wolf
 
-![Wolf](screenshots/Wolf.png)
+![Wolf](Screenshots/Wolf.png)
 
 A classic predator living in forests and mountains. Often hunts in packs and will attack if a foreign presence is detected. Not mountable.
 
@@ -708,7 +708,7 @@ A classic predator living in forests and mountains. Often hunts in packs and wil
 
 #### 🐻 Bear
 
-![Bear](screenshots/Bear.png)
+![Bear](Screenshots/Bear.png)
 
 Strong and powerful, the bear is an omnivore that aggressively defends its territory. It has a passive special ability: the lower its health, the stronger its attacks become. Mountable.
 
@@ -716,7 +716,7 @@ Strong and powerful, the bear is an omnivore that aggressively defends its terri
 
 #### 🐑 Sheep
 
-![Sheep](screenshots/Sheep.png)
+![Sheep](Screenshots/Sheep.png)
 
 A peaceful plains-dweller, the sheep flees from threats. Can be used for its wool or as a light mount. Extremely vulnerable.
 
@@ -724,7 +724,7 @@ A peaceful plains-dweller, the sheep flees from threats. Can be used for its woo
 
 #### 🧬 Tardigramorph
 
-![Tardigramorph](screenshots/Tardigramorph.png)
+![Tardigramorph](Screenshots/Tardigramorph.png)
 
 Inspired by Earth's tardigrade, this giant version is nearly indestructible. It can glide through the air and is immune to all environments. Its special ability makes it temporarily invincible. Variants exist on Kagami (ice) and Funka (fire).
 
@@ -732,7 +732,7 @@ Inspired by Earth's tardigrade, this giant version is nearly indestructible. It 
 
 #### 🐍 Slawormon
 
-![Slawormon](screenshots/Slawormon.png)
+![Slawormon](Screenshots/Slawormon.png)
 
 A giant, cowardly creature that flees when injured but deals heavy damage through its special ability: it causes a sand shockwave that launches enemies into the air. An orange variant becomes faster at low health but attacks less frequently.
 
@@ -740,7 +740,7 @@ A giant, cowardly creature that flees when injured but deals heavy damage throug
 
 #### 🐫 Muddy
 
-![Muddy](screenshots/Muddy.png)
+![Muddy](Screenshots/Muddy.png)
 
 A massive herbivore from Miraju, this skittish creature uses sandstorms to weaken enemies and boost allies. Its storm causes continuous damage while regenerating nearby allies' stamina.
 
@@ -748,7 +748,7 @@ A massive herbivore from Miraju, this skittish creature uses sandstorms to weake
 
 #### 🪨 Golem
 
-![Golem](screenshots/Golem.png)
+![Golem](Screenshots/Golem.png)
 
 A massive stone creature inhabiting Miraju’s deserts. Harmless unless attacked, it becomes devastating when provoked, throwing boulders that deal heavy damage. A fire variant on Funka throws flaming rocks and is fire-immune.
 
@@ -756,7 +756,7 @@ A massive stone creature inhabiting Miraju’s deserts. Harmless unless attacked
 
 #### 🕷️ Aranoide
 
-![Aranoide](screenshots/Aranoide.png)
+![Aranoide](Screenshots/Aranoide.png)
 
 A giant spider-like nocturnal creature. Highly aggressive, it can launch sticky traps that slow down its targets. Dangerous especially at night.
 
@@ -764,7 +764,7 @@ A giant spider-like nocturnal creature. Highly aggressive, it can launch sticky 
 
 #### 🌱 Sower
 
-![Sower](screenshots/Sower.png)
+![Sower](Screenshots/Sower.png)
 
 A plant-based creature living in Mitsurin’s gloomy forests. Releases seed clouds that drain the life energy of enemies. A turquoise variant has faster stamina regeneration and draining abilities.
 
@@ -772,7 +772,7 @@ A plant-based creature living in Mitsurin’s gloomy forests. Releases seed clou
 
 #### 🦌 Cerval
 
-![Cerval](screenshots/Cerval.png)
+![Cerval](Screenshots/Cerval.png)
 
 A strange, partially carnivorous bipedal deer capable of putting enemies to sleep with soporific mist. Combines speed with crowd control. Immune to torpor. Mountable.
 
@@ -780,7 +780,7 @@ A strange, partially carnivorous bipedal deer capable of putting enemies to slee
 
 #### 🧪 Vicilis
 
-![Vicilis](screenshots/Vicilis.png)
+![Vicilis](Screenshots/Vicilis.png)
 
 An aggressive creature with toxic fangs. Can grow vines to trap enemies or navigate terrain. A darker variant can paralyze but loses its draining ability. Excellent for battlefield control.
 
@@ -788,7 +788,7 @@ An aggressive creature with toxic fangs. Can grow vines to trap enemies or navig
 
 #### 🐘 Bibou
 
-![Bibou](screenshots/Bibou.png)
+![Bibou](Screenshots/Bibou.png)
 
 A peaceful giant herbivore. Slow but very durable, it can incubate eggs to increase mutation chances. Great for breeding purposes.
 
@@ -796,7 +796,7 @@ A peaceful giant herbivore. Slow but very durable, it can incubate eggs to incre
 
 #### 🔥 Salavamandre
 
-![Salavamandre](screenshots/Salavamandre.png)
+![Salavamandre](Screenshots/Salavamandre.png)
 
 A volcanic salamander living in fissures. Can climb walls and shoot lava balls that burn on impact. An orange variant shoots three weaker fireballs. Mountable.
 
@@ -804,7 +804,7 @@ A volcanic salamander living in fissures. Can climb walls and shoot lava balls t
 
 #### 🔥 Chrysomancer
 
-![Chrysomancer](screenshots/Chrysomancer.png)
+![Chrysomancer](Screenshots/Chrysomancer.png)
 
 A flaming flying creature that crashes onto enemies in fiery explosions. Extremely fast and dangerous. A blue variant is more enduring but lacks special abilities. Mountable.
 
@@ -812,7 +812,7 @@ A flaming flying creature that crashes onto enemies in fiery explosions. Extreme
 
 #### 🌋 Erudon
 
-![Erudon](screenshots/Erudon.png)
+![Erudon](Screenshots/Erudon.png)
 
 A massive fire-immune predator. Places explosive lava craters on the ground, ideal for traps. Mountable.
 
@@ -820,7 +820,7 @@ A massive fire-immune predator. Places explosive lava craters on the ground, ide
 
 #### ❄️ Snow-Saurus
 
-![SnowSaurus](screenshots/Snow-Saurus.png)
+![SnowSaurus](Screenshots/Snow-Saurus.png)
 
 A hybrid between a Rex and a Yeti, this creature is built for snowy combat. Its ice breath deals heavy DPS and massive knockback. A light blue variant can summon snowstorms. Mountable.
 
@@ -828,7 +828,7 @@ A hybrid between a Rex and a Yeti, this creature is built for snowy combat. Its 
 
 #### ❄️ Reaper
 
-![Reaper](screenshots/Reaper.png)
+![Reaper](Screenshots/Reaper.png)
 
 An ice creature with extendable claws. Can strike from a distance and launch enemies into the air. Excellent for crowd control. Immune to freezing. Mountable.
 
@@ -836,7 +836,7 @@ An ice creature with extendable claws. Can strike from a distance and launch ene
 
 #### ❄️ Hazer
 
-![Hazer](screenshots/Hazer.png)
+![Hazer](Screenshots/Hazer.png)
 
 Wolf-like creature capable of creating illusions using a blizzard to confuse enemies. Great for deception. Mountable.
 
@@ -844,7 +844,7 @@ Wolf-like creature capable of creating illusions using a blizzard to confuse ene
 
 #### ✨ Dazzle
 
-![Dazzle](screenshots/Dazzle.png)
+![Dazzle](Screenshots/Dazzle.png)
 
 A massive creature from Kagami capable of blinding enemies with its intense light, disorienting them and making them lose track of their targets. Mountable.
 
@@ -852,7 +852,7 @@ A massive creature from Kagami capable of blinding enemies with its intense ligh
 
 #### 🌀 Tronvoide
 
-![Tronvoide](screenshots/Tronvoide.png)
+![Tronvoide](Screenshots/Tronvoide.png)
 
 A small cowardly creature from Vesus that teleports behind enemies to ambush them. Mainly active at night. Not mountable.
 
@@ -860,7 +860,7 @@ A small cowardly creature from Vesus that teleports behind enemies to ambush the
 
 #### ⛈️ Stormvoker
 
-![Stormvoker](screenshots/Stormvoker.png)
+![Stormvoker](Screenshots/Stormvoker.png)
 
 A colossus from Vesus that summons deadly storms, striking enemies with lightning. Pink variant causes longer but weaker storms. Mountable.
 
@@ -868,7 +868,7 @@ A colossus from Vesus that summons deadly storms, striking enemies with lightnin
 
 #### ⚛️ Negatron
 
-![Negatron](screenshots/Negatron.png)
+![Negatron](Screenshots/Negatron.png)
 
 A civilized humanoid that manipulates antimatter. Teleports while dealing area damage before and after. Agile and can glide. Mountable.
 
@@ -876,7 +876,7 @@ A civilized humanoid that manipulates antimatter. Teleports while dealing area d
 
 #### 🌿 Hyppoglow
 
-![Hyppoglow](screenshots/Hyppoglow.png)
+![Hyppoglow](Screenshots/Hyppoglow.png)
 
 A peaceful berry-eater from Vesus. Highlights luminous ore veins nearby and has a unique ability to rejuvenate allies. Mountable.
 
