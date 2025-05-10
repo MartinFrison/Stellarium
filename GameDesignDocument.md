@@ -320,9 +320,8 @@ Available shapes include:
 Each shape has a larger variant costing 4× more to place.
 
 
-<img src="screenshots/Building1.png" alt="Building1" width="33%">
-<img src="screenshots/Building2.png" alt="Building2" width="33%">
-<img src="screenshots/Wall.png" alt="Wall" width="33%">
+| ![Building1](screenshots/Building1.png) | ![Building2](screenshots/Building2.png) | ![Wall](screenshots/Wall.png) |
+|:--:|:--:|:--:|
 
 
 ---
@@ -336,8 +335,8 @@ Ships can be built from scratch using the same modular system as bases, allowing
 * Players can control speed and direction in third-person view.
 * Ships are fully pilotable.
 
-<img src="screenshots/Starship1.png" alt="Starship 1" style="width: 49%;" />
-<img src="screenshots/Starship2.png" alt="Starship 2" style="width: 49%;" />
+| ![Starship1](screenshots/Starship1.png) | ![Starship2](screenshots/Starship2.png) |
+|:--:|:--:|
 
 
 ---
